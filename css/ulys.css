@@ -9,7 +9,7 @@ footer{
   position: relative;
   overflow: hidden;
   width: 100%;
-  padding-top: 75%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+  padding-top: 15.625%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
 }
 
 /* Then style the iframe to fit in the container div with full height and width */
